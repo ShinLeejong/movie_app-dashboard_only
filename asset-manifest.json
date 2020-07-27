@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-fundamentals/lectures/1562/static/css/main.92591631.chunk.css",
-    "main.js": "/react-fundamentals/lectures/1562/static/js/main.bc9e04f9.chunk.js",
-    "main.js.map": "/react-fundamentals/lectures/1562/static/js/main.bc9e04f9.chunk.js.map",
-    "runtime-main.js": "/react-fundamentals/lectures/1562/static/js/runtime-main.bfa3be12.js",
-    "runtime-main.js.map": "/react-fundamentals/lectures/1562/static/js/runtime-main.bfa3be12.js.map",
-    "static/js/2.7db11c54.chunk.js": "/react-fundamentals/lectures/1562/static/js/2.7db11c54.chunk.js",
-    "static/js/2.7db11c54.chunk.js.map": "/react-fundamentals/lectures/1562/static/js/2.7db11c54.chunk.js.map",
-    "index.html": "/react-fundamentals/lectures/1562/index.html",
-    "precache-manifest.dd59b89c7721606d27aa346cb1c7b58c.js": "/react-fundamentals/lectures/1562/precache-manifest.dd59b89c7721606d27aa346cb1c7b58c.js",
-    "service-worker.js": "/react-fundamentals/lectures/1562/service-worker.js",
-    "static/css/main.92591631.chunk.css.map": "/react-fundamentals/lectures/1562/static/css/main.92591631.chunk.css.map",
-    "static/js/2.7db11c54.chunk.js.LICENSE.txt": "/react-fundamentals/lectures/1562/static/js/2.7db11c54.chunk.js.LICENSE.txt"
+    "main.css": "/my_movie_app/static/css/main.92591631.chunk.css",
+    "main.js": "/my_movie_app/static/js/main.bc9e04f9.chunk.js",
+    "main.js.map": "/my_movie_app/static/js/main.bc9e04f9.chunk.js.map",
+    "runtime-main.js": "/my_movie_app/static/js/runtime-main.41d1874e.js",
+    "runtime-main.js.map": "/my_movie_app/static/js/runtime-main.41d1874e.js.map",
+    "static/js/2.7db11c54.chunk.js": "/my_movie_app/static/js/2.7db11c54.chunk.js",
+    "static/js/2.7db11c54.chunk.js.map": "/my_movie_app/static/js/2.7db11c54.chunk.js.map",
+    "index.html": "/my_movie_app/index.html",
+    "precache-manifest.91ffc90077c52bba29c36f22fe7d3d30.js": "/my_movie_app/precache-manifest.91ffc90077c52bba29c36f22fe7d3d30.js",
+    "service-worker.js": "/my_movie_app/service-worker.js",
+    "static/css/main.92591631.chunk.css.map": "/my_movie_app/static/css/main.92591631.chunk.css.map",
+    "static/js/2.7db11c54.chunk.js.LICENSE.txt": "/my_movie_app/static/js/2.7db11c54.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfa3be12.js",
+    "static/js/runtime-main.41d1874e.js",
     "static/js/2.7db11c54.chunk.js",
     "static/css/main.92591631.chunk.css",
     "static/js/main.bc9e04f9.chunk.js"
